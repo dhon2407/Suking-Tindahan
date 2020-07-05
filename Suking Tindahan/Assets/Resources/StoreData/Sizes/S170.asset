@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f81aeeb3958640a1a37dc8f5615b4044, type: 3}
+  m_Name: S170
+  m_EditorClassIdentifier: 
+  unrevealedIcon: {fileID: 0}
+  revealedIcon: {fileID: 0}
+  action: {fileID: 11400000, guid: 45d5e036dd7e99b49b161e1248763bfa, type: 2}
